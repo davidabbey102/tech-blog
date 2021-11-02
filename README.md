@@ -1,7 +1,12 @@
 # Tech Blog
 
+GitHub: https://github.com/davidabbey102/tech-blog
+
+Heroku: 
 ## Badges
+
 ![](https://img.shields.io/badge/License-MIT%20-blue.svg)
+
 ## Description
 
 A tech blog site to write posts about anything tech related. User must have an account to create or comment on posts, but anyone can view them.

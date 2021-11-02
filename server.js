@@ -18,7 +18,7 @@ app.use(express.static(path.join(__dirname, 'public')))
 app.set('view engine', 'handlebars')
 
 app.use(session({
-    secret: process.env.SESSION_SECRET,
+    secret: 'this can be anything',
     resave: false,
     saveUninitialized: true,
     cookie: {

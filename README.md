@@ -2,7 +2,8 @@
 
 GitHub: https://github.com/davidabbey102/tech-blog
 
-Heroku: 
+Heroku: https://tech-blog-dwa.herokuapp.com/
+
 ## Badges
 
 ![](https://img.shields.io/badge/License-MIT%20-blue.svg)
